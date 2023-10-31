@@ -1,0 +1,28 @@
+[package]
+name = "azusa"
+version = "1.0.0"
+authors = ["fz6m"]
+description = "Fast multiple substring searching."
+homepage = "https://github.com/xn-sakina/azusa"
+repository = "https://github.com/xn-sakina/azusa"
+readme = "README.md"
+keywords = [
+    "string",
+    "string-index",
+    "javascript",
+    "utf8-to-utf16",
+    "rust-index-to-js-index"
+]
+license = "MIT"
+edition = "2021"
+rust-version = "1.63"
+categories = ["javascript"]
+
+[lib]
+name = "azusa"
+
+[dependencies]
+unicode-width = "0.1.11"
+
+[dev-dependencies]
+aho-corasick = "1.1.2"
