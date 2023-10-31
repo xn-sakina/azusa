@@ -1,8 +1,8 @@
 [package]
 name = "azusa"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["fz6m"]
-description = "Fast multiple substring searching."
+description = "String index transformer for Rust utf8 to JavaScript utf16."
 homepage = "https://github.com/xn-sakina/azusa"
 repository = "https://github.com/xn-sakina/azusa"
 readme = "README.md"
