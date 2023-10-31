@@ -6,13 +6,7 @@ description = "Fast multiple substring searching."
 homepage = "https://github.com/xn-sakina/azusa"
 repository = "https://github.com/xn-sakina/azusa"
 readme = "README.md"
-keywords = [
-    "string",
-    "string-index",
-    "javascript",
-    "utf8-to-utf16",
-    "rust-index-to-js-index"
-]
+keywords = ["string", "string-index", "javascript", "utf8-to-utf16"]
 license = "MIT"
 edition = "2021"
 rust-version = "1.63"
