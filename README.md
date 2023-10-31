@@ -5,7 +5,7 @@ Transform string index from `UTF-8` in Rust to `UTF-16` in JavsScript.
 ### Usage
 
 ```rust
-use azusa;
+use azusa::Azusa;
 
 let text = "c😅é文";
 let transformer = Azusa::new(text.into());
